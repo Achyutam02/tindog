@@ -79,11 +79,13 @@ padding: 0% 3%;
 
 /* Title Iamge */
 
-.title-image{
-  width: 55%;
-  transform: rotate(25deg);
-  right: 30%;  
-  position: absolute;
+.title-image {
+    width: 55%;
+    transform: rotate(25deg);
+    right: 30%;
+    position: absolute;
+    z-index: 0;
+    top: 180px;
 }
 
 #features{
