@@ -82,8 +82,8 @@ padding: 0% 3%;
 .title-image{
   width: 55%;
   transform: rotate(25deg);
+  right: 30%;  
   position: absolute;
-  right: 50%;  
 }
 
 #features{
